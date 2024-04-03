@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> </h3>
 
 - 🌱 I’m currently learning **about Go! and DevOps workflow**
 
