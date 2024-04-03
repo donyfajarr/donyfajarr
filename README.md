@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🌱 I’m currently learning on Go!, Django and DevOps workflow. Feel free to reach me up!
-[(https://github-readme-stats-wine-tau.vercel.app/api?username=donyfajarr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)]
+
+[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats-wine-tau.vercel.app/api?username=donyfajarr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **donyfajarr/donyfajarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
