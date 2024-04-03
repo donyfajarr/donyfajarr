@@ -1,7 +1,6 @@
 <h3 align="center"> </h3>
 
 - 🌱 I’m currently learning about **Go! and DevOps workflow**
-
 - 📫 Feel free to reach me on **donyfajarr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
