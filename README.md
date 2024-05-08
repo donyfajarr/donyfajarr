@@ -1,6 +1,6 @@
 <h3 align="center">Hello there 👋</h3>
 
-- 🌱 I’m currently learning about **Go! and DevOps workflow**
+- 🌱 I’m currently learning about **Go!**
 
 - 📫 Feel free to reach me on **donyfajarr@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
